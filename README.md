@@ -1,2 +1,2 @@
 # boilerplate-npm
-A boilerplate for the freeCodeCamp curriculum.
+A boilerplate for Backend Development.
